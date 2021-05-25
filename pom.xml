@@ -25,7 +25,8 @@
       </plugin>
     </plugins>
   </build>
-   <distributionManagement>
+<!--   
+<distributionManagement>
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
@@ -37,6 +38,7 @@
             <url>http://nexusserver.com:8081/repository/Test1_Snap/</url>
         </snapshotRepository>
     </distributionManagement>
+-->
   <dependencies>
   	<dependency>
   		<groupId>javax.servlet</groupId>
